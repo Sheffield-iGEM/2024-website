@@ -2,8 +2,7 @@
 on: push
 name: Build and deploy GH Pages
 # Ensure that this action can write to the gh-pages branch
-permissions:
-  actions: write
+permissions: write-all
 jobs:
   build:
     runs-on: ubuntu-latest
