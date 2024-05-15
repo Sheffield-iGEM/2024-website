@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://sheffield-igem.github.io/2024-wiki/sitemap.xml
