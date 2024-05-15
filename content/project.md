@@ -1,6 +1,6 @@
 +++
 title = "THE PROJECT"
-date = 15/05/2024
+date = 2024-05-15
 +++
 
 Lorem Ipsum
