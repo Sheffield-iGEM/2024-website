@@ -1,7 +1,6 @@
 +++
-paginate_by = 5
-title = "PROJECT"
-date = 2024-05-13
+title = "THE PROJECT"
+date = 15/05/2024
 +++
 
 Lorem Ipsum

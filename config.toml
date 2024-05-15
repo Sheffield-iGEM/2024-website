@@ -17,3 +17,12 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+after_dark_menu = [
+    {url = "$BASE_URL", name="Home"},
+    {url = "$BASE_URL/project", name="Project"}
+]
+
+author = "iGEM Sheffield 2024"
+
+after_dark_title = "2024 Wiki"
