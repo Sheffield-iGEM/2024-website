@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://sheffield-igem.github.io/2024-website/"
+base_url = "https://sheffield-igem.github.io/2024-wiki/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
