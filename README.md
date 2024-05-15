@@ -6,11 +6,11 @@ winget install getzola.zola
 ```
 - then in the specific directory you want to have the git repo and use the command
 ```
-zola build
+zola init
 ```
 - put in any details you like for the URL and make sure to say yes
 
-- next you want to get the git repo so use the commands
+- next you want to get the git repo so use the commands * not sure how repeatable the results are!!!
 ```
 git init
 git remote add origin https://github.com/Sheffield-iGEM/2024-website.git
@@ -27,5 +27,5 @@ git pull
 git push
 ```
 
-The URL for the website which you can find online is: https://sheffield-igem.github.io/2024-website/
+The URL for the website which you can find online is: https://sheffield-igem.github.io/2024-wiki/
 (it is also visible on the repo)
