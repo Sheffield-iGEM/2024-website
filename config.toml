@@ -19,8 +19,7 @@ highlight_code = true
 # Put all your custom variables here
 
 after_dark_menu = [
-    {url = "$BASE_URL", name="Home"},
-    {url = "$BASE_URL/project", name="Project"}
+    {url = "$BASE_URL", name="Home"}
 ]
 
 author = "iGEM Sheffield 2024"
